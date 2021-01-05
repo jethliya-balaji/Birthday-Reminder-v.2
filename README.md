@@ -55,9 +55,7 @@ Plyer  : pip install plyer
 Pickle : pip install pickle or pip install pickleshare(standard module)
 Datetime: pip install datetime(standard module)
 
-Or
-
-run  pip install -r requirements.txt
+Or run : pip install -r requirements.txt
 ````
 
 ## How To Set Notifier

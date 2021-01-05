@@ -18,7 +18,7 @@ And Notify You On Their Birthdays
 - Clone The Repository
 
  ````
-Clone : https://github.com/LokeshLGJ/Birthday_Reminder_GUI.git 
+Clone : https://github.com/jethliya-balaji/Birthday-Reminder-v.2.git
  ````
 ---
 

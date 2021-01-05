@@ -18,16 +18,16 @@ And Notify You On Their Birthdays
 - Clone The Repository
 
  ````
-Clone : https://github.com/LokeshLGJ/Birthday_Reminder_GUI.git 
+Clone : https://github.com/jethliya-balaji/Birthday-Reminder-v.2.git
  ````
 ---
 
 - Download ZIP File
   - After Download Extract File.  
-    - Now You Have Birthday_Reminder_GUI-master
+    - Now You Have Birthday-Reminder-v.2-master
 
  ````
-Download :https://github.com/LokeshLGJ/Birthday_Reminder_GUI/archive/master.zip 
+Download :https://github.com/jethliya-balaji/Birthday-Reminder-v.2/archive/master.zip
  ````
 
 **Now you have Copy of Project**
@@ -54,14 +54,16 @@ Tkinter: pip install tkinter(standard module)
 Plyer  : pip install plyer
 Pickle : pip install pickle or pip install pickleshare(standard module)
 Datetime: pip install datetime(standard module)
+
+Or run : pip install -r requirements.txt
 ````
 
 ## How To Set Notifier
 
 - After [Cloning Or Download ZIP File](#getting-started).  
-- You Have ``Birthday_Reminder_GUI-master`` Folder
-- In The Folder There Is a File Name: ``Birthday_Notifier.py``
-- You Need To Add This File ``Birthday_Notifier.py`` to Task Scheduler In Windows
+- You Have ``Birthday-Reminder-v.2-master`` Folder
+- In The Folder There Is a File Name: ``birthday_notifier.py``
+- You Need To Add This File ``birthday_notifier.py`` to Task Scheduler In Windows
 - For Linux And Mac OS search On Internet ``How To Add Python Script To Task Scheduler``
 
 ## How To Set Notifier In Windows

@@ -24,10 +24,10 @@ Clone : https://github.com/jethliya-balaji/Birthday-Reminder-v.2.git
 
 - Download ZIP File
   - After Download Extract File.  
-    - Now You Have Birthday_Reminder_GUI-master
+    - Now You Have Birthday-Reminder-v.2-master
 
  ````
-Download :https://github.com/LokeshLGJ/Birthday_Reminder_GUI/archive/master.zip 
+Download :https://github.com/jethliya-balaji/Birthday-Reminder-v.2/archive/master.zip
  ````
 
 **Now you have Copy of Project**

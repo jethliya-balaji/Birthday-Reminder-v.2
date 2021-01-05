@@ -8,7 +8,6 @@ And Notify You On Their Birthdays
 - [_**Getting Started**_](#getting-started)
 - [_**Installation of Prerequisites**_](#prerequisites)
 - [_**How To Set Notifier**_](#how-to-set-notifier)
-- [_**How To Set Notifier In Windows**_](#how-to-set-notifier-in-windows)
 - [_**How to use**_](#how-to-use)
 
 
@@ -63,31 +62,12 @@ Or run : pip install -r requirements.txt
 - After [Cloning Or Download ZIP File](#getting-started).  
 - You Have ``Birthday-Reminder-v.2-master`` Folder
 - In The Folder There Is a File Name: ``birthday_notifier.py``
-- You Need To Add This File ``birthday_notifier.py`` to Task Scheduler In Windows
+- You Need To Add This File ``birthday_notifier.py`` to Task Scheduler In Windows (You may search how to do it)
+- https://www.youtube.com/watch?v=n2Cr_YRQk7o  <<------- check it for windows
 - For Linux And Mac OS search On Internet ``How To Add Python Script To Task Scheduler``
 
-## How To Set Notifier In Windows
-- There Are Two Choice 
-  1. Import Task
-  2. Or Create Task
-  
-1. Import Task
-    - To Import Task
-    - First Go To Start Menu & Search ``Task Scheduler``
-    - Open ``Task Scheduler`` And Click ``Task Scheduler Library``
-    - Now Click On ``Import Task`` A Open Window Pops Up
-    - From Open Window Select The ``Birthday Reminder.xml`` Present In Birthday_Reminder_GUI-master And Click ``Open`` Button
-    - After Clicking ``Open`` Button  A Create Task Window  Will Pop Up
-    - Now In  Create Task Window  Click On Actions  And Then Click On ``Start a program`` 
-    - And Click on ``Edit..``  Button  A Edit Action Window  Will Pop Up
-    - In  Program/Script : Past The Location Of Python.exe File 
-      - To Get The Location Of python.exe Type The Following Command in Your Terminal/Command Prompt/Powershell   ``python -c "import sys; print(sys.executable)"``
-    - And In  Start in :  Past The Location Of  Birthday_Notifier.py File
-    - Now Click Ok  
-    - Now You Have Set Notifier 
-    - Video: [How To Set Notifier In Windows / How To Add python Script To Task Scheduler ](https://github.com/LokeshLGJ/Birthday_Reminder_GUI/blob/master/imgs/Birthday_Notifier.mp4?raw=true)
-    
-    
+
+
 ## How To Use
 
 - Now You Have Copy Of Project
